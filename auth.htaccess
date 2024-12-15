@@ -1,4 +1,4 @@
-AuthUserFile /自社サーバーのフォルダパスを入れる/.htpasswd
+AuthUserFile /pw/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Please enter your ID and Password."
 AuthType Basic
